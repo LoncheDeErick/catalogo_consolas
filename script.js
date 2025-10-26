@@ -18,7 +18,7 @@ const consolas = [
     descripcion: "Es la consola de juegos más potente de Microsoft, destacada por su procesador de 8 núcleos, GPU de 12 teraflops y su arquitectura",
     precio: 812,
     imagen: "img/xbox.jpeg",
-    link: "24d7976d416433008d710be5f0ee216d&tag=gledskshopmx-20&linkCode=df0&hvadid=709846429623&hvpos=&hvnetw=g&hvrand=10144678710127403811&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073855&hvtargid=pla-1158386393975&psc=1&language=es_MX"
+    link: "https://www.amazon.com.mx/Consola-Xbox-X-1-TB/dp/B08H75RTZ8/ref=asc_df_B08H75RTZ8?mcid=24d7976d416433008d710be5f0ee216d&tag=gledskshopmx-20&linkCode=df0&hvadid=709846429623&hvpos=&hvnetw=g&hvrand=595373609889528686&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9073855&hvtargid=pla-1158386393975&psc=1&language=es_MX&gad_source=1"
   },
   {
     nombre: "Nintendo Switch 2",
@@ -54,3 +54,4 @@ consolas.forEach(cons => {
 
   catalogo.appendChild(clone);
 });
+
